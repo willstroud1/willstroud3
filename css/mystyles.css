@@ -1,0 +1,54 @@
+/* Add your custom CSS styles here */
+
+/* Body styles */
+body {
+    background-color: #838189ae;
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+/* Header styles */
+h1 {
+    color: black;
+    text-align: center;
+}
+
+/* Container styles */
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: whitesmoke;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Image styles */
+.image {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+/* Video container styles */
+.video-container {
+    position: relative;
+    width: 100%;
+    padding-bottom: 56.25%;
+    margin-bottom: 20px;
+}
+
+.video-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+/* Additional styled div */
+.styled-div {
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 20px;
+}
